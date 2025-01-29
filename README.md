@@ -9,7 +9,7 @@
   <a href="https://codepen.io/lapunzalan29" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
   </a>
-  <a href="qlapunzalan@tip.edu.ph" target="_blank">
+  <a href="mailto:qlapunzalan@tip.edu.ph" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
